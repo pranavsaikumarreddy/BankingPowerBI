@@ -1,0 +1,487 @@
+college_name,City,State,Ratings, Fees ,OwnerShip,Year of Est
+RVCE,Bangalore, Karnataka,4,2400000,Private,1963
+BITS Pilani,Pilani, Rajasthan,4,1960000,Private,1964
+IIIT Delhi,Delhi, Delhi NCR,4,1500000,Private,2008
+Thapar University,Patiala, Punjab,4,1482800,Public,1956
+"Amity University, Noida",Greater Noida, Uttar Pradesh,4,1466000,Private,2003
+KIIT University,Bhubaneswar, Odisha,4,1400000,Private,1997
+Woxsen School of Business,Hyderabad, Telangana,5,1340000,Private,1983
+CMR Institute of Technology (CMRIT),Bangalore, Karnataka,3,1322000,Private,2000
+SRM University,Kanchipuram, Tamil Nadu,4,1307471,Private,1985
+Graphic Era University,Dehradun, Uttarakhand,3,1249500,Private,1997
+NMIMS Mukesh Patel School of Technology Mumbai,Mumbai, Maharashtra,4,1246000,Private,2006
+IIIT Hyderabad,Hyderabad, Telangana,4,1200000,Public,1998
+Andhra University,Visakhapatnam, Andhra Pradesh,4,1154960,Public,1926
+Anurag University,Hyderabad, Telangana,4,1140000,Private,2002
+AMU,Aligarh, Uttar Pradesh,3,1077780,Public,1875
+Nirma University,Ahmedabad, Gujarat,2,1060111,Private,1995
+Apeejay Stya University,Gurgaon, Haryana,3,1040000,Private,2010
+SIT Pune,Pune, Maharashtra,4,1040000,Private,2008
+Amity University Gurugram,Gurgaon, Haryana,4,1035765,Private,2010
+IIT Gandhinagar,Gandhinagar, Gujarat,4,1028000,Public,2008
+Graphic Era Hill University Bhimtal,Bhimtal, Uttarakhand,3,1009602,Private,2011
+"Graphic Era Hill University, Dehradun",Dehradun, Uttarakhand,3,1001159,Private,2011
+NHCE Bangalore,Bangalore, Karnataka,4,1000000,Private,2001
+Sathyabama University,Chennai, Tamil Nadu,4,980000,Private,1987
+IIT Indore,Indore, Madhya Pradesh,4,962500,Public,2009
+Institute of Technical Education and Research,Bhubaneswar, Odisha,4,916000,Private,2004
+SIU Pune,Pune, Maharashtra,4,900000,Private,2002
+SNU ,Chennai, Tamil Nadu,4,900000,Private,2011
+IIT Ropar,Ropar, Punjab,4,858200,Public,2008
+"IIIT Gandhinagar: Indian Institute of Information Technology, Vadodara",Vadodara, Gujarat,3,840000,Public,2008
+MRIIRS,Faridabad, Haryana,4,820118,Private,2009
+MVJ College of Engineering (MVJCE),Bangalore, Karnataka,3,807840,Private,1982
+IIT Bhilai,Bhilai, Chhattisgarh,5,800000,Public,2016
+IIT Delhi,Delhi, Delhi NCR,4,800000,Public,1961
+IIT Bombay,Mumbai, Maharashtra,4,800000,Public,1958
+IIT Madras,Chennai, Tamil Nadu,4,800000,Public,1959
+IIT Hyderabad,Hyderabad, Telangana,4,800000,Public,2008
+IIT Kanpur,Kanpur, Uttar Pradesh,4,800000,Public,1959
+IIT Roorkee,Roorkee, Uttarakhand,4,800000,Public,1847
+IIT Bhubaneswar,Bhubaneswar, Odisha,4,791072,Public,2008
+Maharaja Agrasen Institute of Technology,Delhi, Delhi NCR,4,781600,Public,2007
+Chitkara University,Patiala, Punjab,4,778880,Private,2010
+Vellore Institute of Technology,Vellore, Tamil Nadu,4,764976,Private,1984
+Sathyabama Institute,Chennai, Tamil Nadu,4,760000,Private,1988
+Noida International University,Gautam Budh Nagar, Uttar Pradesh,3,752000,Private,2010
+CMR University,Bangalore, Karnataka,3,740000,Private,2013
+Institute of Technology,Ahmedabad, Gujarat,4,724000,Private,2004
+IIIT Una,Una, Himachal Pradesh,4,720000,Public,2014
+IIIT Kota (Jaipur),Kota, Rajasthan,4,720000,Public,2013
+GLA University,Mathura, Uttar Pradesh,3,710214,Private,1998
+Hamdard University,Delhi, Delhi NCR,3,710000,Public,1906
+IIT Mandi,Mandi, Himachal Pradesh,4,700000,Public,2009
+Ahmedabad University,Ahmedabad, Gujarat,4,692000,Public,2009
+Adani Institute of Infrastructure Engineering,Ahmedabad, Gujarat,4,660000,Private,2015
+Jaypee University of Engineering and Technology,Guna, Madhya Pradesh,4,660000,Private,2003
+B.S. Abdur Rahman Crescent Institute of Science and Technology,Chennai, Tamil Nadu,4,657143,Private,2007
+Dhirubhai Ambani Institute of Information and Communication Technology,Gandhinagar, Gujarat,4,630200,Private,2001
+PSIT Kanpur,Kanpur, Uttar Pradesh,4,629600,Private,2004
+Jain University,Bangalore, Karnataka,3,626304,Private,1990
+"G.H. Raisoni College of Engineering, Nagpur",Nagpur, Maharashtra,4,623092,Private,2007
+Swami Rama Himalayan University,Dehradun, Uttarakhand,3,620000,Private,2013
+AIT Pune,Pune, Maharashtra,4,611151,Private,1994
+VIT Pune,Pune, Maharashtra,4,608696,Private,1983
+"Silicon Institute of Technology, Bhubaneswar",Bhubaneswar, Odisha,4,602825,Private,2001
+IIIT Surat,Surat, Gujarat,4,600000,Public,2017
+Bharath University,Chennai, Tamil Nadu,3,600000,Private,2010
+Alakh Prakash Goyal Shimla University,Shimla, Himachal Pradesh,4,564273,Private,2012
+CBIT Hyderabad,Kadapa, Andhra Pradesh,4,536000,Private,1979
+IIIT Allahabad,Allahabad, Uttar Pradesh,4,528000,Public,1999
+VNR VJIET,Hyderabad, Telangana,4,524000,Private,1995
+The Oxford College of Engineering,Bangalore, Karnataka,3,520360,Private,2000
+NIT Jalandhar,Jalandhar, Punjab,4,516000,Public,1987
+NIT Hamirpur,Hamirpur, Uttar Pradesh,4,512057,Public,1986
+Sanskriti University,Mathura, Uttar Pradesh,4,510714,Private,2010
+LNCT Bhopal,Bhopal, Madhya Pradesh,4,510500,Private,2003
+Christian College of Engineering and Technology (Bhilai),Bhilai, Chhattisgarh,4,503849,Private,1998
+Sardar Patel Institute of Technology,Mumbai, Maharashtra,4,501820,Private,1997
+NIT Raipur,Raipur, Chhattisgarh,4,500000,Public,1956
+NIT Delhi,Delhi, Delhi NCR,4,500000,Public,2010
+NIT Kurukshetra,Kurukshetra, Haryana,4,500000,Public,1963
+IIIT Sonepat,Sonipat, Haryana,4,500000,Public,2014
+NIT Surathkal,Mangalore, Karnataka,4,500000,Public,1960
+T. John Institute of Technology,Bangalore, Karnataka,4,500000,Private,2006
+NIT Bhopal,Bhopal, Madhya Pradesh,3,500000,Public,1960
+VNIT Nagpur,Nagpur, Maharashtra,4,500000,Public,1960
+NIT Rourkela,Rourkela, Odisha,4,500000,Public,1961
+NIT Trichy,Tiruchirappalli, Tamil Nadu,3,500000,Public,1964
+NIT Warangal,Warangal, Telangana,4,500000,Public,1959
+MNNIT Allahabad,Allahabad, Uttar Pradesh,4,500000,Public,1961
+Mangalayatan University,Aligarh, Uttar Pradesh,4,500000,Private,2006
+IIEST Shibpur - Indian Institute of Engineering Science and Technology,Howrah, West Bengal,4,500000,Public,1856
+NIT Durgapur,Durgapur, West Bengal,4,500000,Public,1960
+Saveetha University,Chennai, Tamil Nadu,4,496455,Private,1992
+Mewar University,Chittorgarh, Rajasthan,3,492000,Private,2009
+DTU,Delhi, Delhi NCR,4,484400,Public,1941
+SVNIT Surat,Surat, Gujarat,4,484286,Public,1961
+Karunya University,Coimbatore, Tamil Nadu,4,480000,Private,1986
+Lucknow University,Lucknow, Uttar Pradesh,3,480000,Public,1867
+National Institute of Science and Technology,Brahmapur, Odisha,4,478500,Private,1996
+RCOEM,Nagpur, Maharashtra,4,474272,Private,1984
+IIITM Gwalior,Gwalior, Madhya Pradesh,4,468600,Public,1997
+JNTUH,Hyderabad, Telangana,4,460852,Public,1972
+"Amity University, Raipur",Raipur, Chhattisgarh,4,453333,Private,2014
+CHARUSAT,Anand, Gujarat,4,453333,Public,2000
+JSS Noida,Noida, Uttar Pradesh,4,451400,Private,1998
+SOA - School of Aeronautics,Delhi, Delhi NCR,4,449167,Private,2012
+OPJU Raigarh,Raigarh, Chhattisgarh,4,448000,Private,2014
+Bharati Vidyapeeth University College of Engineering,Pune, Maharashtra,4,448000,Public,2012
+Dwarkadas J. Sanghvi College of Engineering,Mumbai, Maharashtra,3,447200,Private,1994
+Ajay Kumar Garg Engineering College,Ghaziabad, Uttar Pradesh,3,445024,Private,1998
+Galgotias College of Engineering and Technology,Noida, Uttar Pradesh,4,438412,Private,2000
+VIIT Pune,Pune, Maharashtra,4,436364,Private,2002
+Maharaja Agrasen University,Solan, Himachal Pradesh,4,436000,Private,2013
+Banasthali Vidyapith,Jaipur, Rajasthan,3,436000,Private,1935
+"Yeshwantrao Chavan College of Engineering, Nagar Yuwak Shikshan Sanstha",Nagpur, Maharashtra,3,429092,Private,1984
+Kalasalingam University,Krishnakoil, Tamil Nadu,3,422857,Private,1984
+JIIT Noida,Noida, Uttar Pradesh,4,422500,Private,2001
+COER,Roorkee, Uttarakhand,3,420000,Private,1998
+Raj Kumar Goel Institute of Technology (RKGIT),Ghaziabad, Uttar Pradesh,3,417000,Private,2007
+GNDU,Amritsar, Punjab,4,416445,Public,1969
+IMS Engineering College,Ghaziabad, Uttar Pradesh,4,415676,Private,2002
+Gayatri Vidya Parishad College of Engineering,Visakhapatnam, Andhra Pradesh,4,414800,Private,1996
+Meerut Institute of Engineering and Technology,Meerut, Uttar Pradesh,4,408052,Private,2006
+NIT - Narula Institute of Technology,Kolkata, West Bengal,4,408000,Private,2004
+Guru Nanak Institute of Technology - GNIT,Kolkata, West Bengal,4,407000,Private,2003
+IIIT Bhopal,Bhopal, Madhya Pradesh,4,405000,Public,2002
+GMR Institute of Technology - GMRIT,Srikakulam, Andhra Pradesh,4,404000,Private,1997
+M. S. Engineering College,Bangalore, Karnataka,2,400000,Private,2002
+IIT Varanasi (BHU),Varanasi, Uttar Pradesh,3,399998,Public,1919
+NSHM Durgapur,Durgapur, West Bengal,4,384000,Private,1996
+Pimpri Chinchwad College of Engineering,Pune, Maharashtra,4,381924,Private,1999
+SCE - Shivalik College of Engineering,Dehradun, Uttarakhand,4,376350,Private,2007
+SRESCOE,Ahmednagar, Maharashtra,4,375100,Private,1983
+Madanapalle Institute of Technology and Science,Madanapalle, Andhra Pradesh,4,372000,Private,1998
+KCG College of Technology,Chennai, Tamil Nadu,3,363000,Private,1998
+Poornima College of Engineering,Jaipur, Rajasthan,4,361600,Private,2000
+"University Institute of Information Technology, Himachal Pradesh University",Shimla, Himachal Pradesh,4,360000,Private,2000
+Abhilashi University,Mandi, Himachal Pradesh,4,360000,Public,2014
+Aryans Group of Colleges,Chandigarh, Punjab,5,360000,Private,2007
+Jayoti Vidyapeeth Women's University,Jaipur, Rajasthan,4,360000,Private,2008
+Institute of Aeronautical Engineering,Hyderabad, Telangana,4,360000,Private,2000
+IEC University,Solan, Himachal Pradesh,3,357000,Private,2012
+Techno Main Salt Lake,Kolkata, West Bengal,4,356800,Public,2001
+NIEC,Delhi, Delhi NCR,3,354400,Private,2003
+Guru Tegh Bahadur Institute of Technology,Delhi, Delhi NCR,3,354000,Private,1999
+Geetanjali Institute of Technical Studies,Udaipur, Rajasthan,4,350000,Private,2003
+PSGCT,Coimbatore, Tamil Nadu,4,348000,Private,1951
+NIFTEM - National Institute of Food Technology Entrepreneurship and Management,Sonipat, Haryana,4,344000,Public,2012
+"Swami Keshvanand Institute of Technology Management and Gramothan, Jaipur",Jaipur, Rajasthan,4,340400,Private,2000
+Raghu Engineering College,Visakhapatnam, Andhra Pradesh,3,340000,Private,2001
+"ICFAI University, Himachal",Baddi, Himachal Pradesh,3,340000,Private,2011
+Muffakham Jah College of Engineering and Technology,Hyderabad, Telangana,4,340000,Private,1980
+Himgiri Zee University,Dehradun, Uttarakhand,3,336000,Private,2005
+NIT Calicut,Calicut, Kerala,4,333334,Public,1961
+Haldia Institute of Technology,Midnapore, West Bengal,3,332000,Private,1996
+Swami Vivekananda Institute of Science and Technology,Kolkata, West Bengal,4,332000,Private,2008
+B.P. Poddar Institute of Management and Technology,Kolkata, West Bengal,3,332000,Private,1999
+SKFGI - Supreme Knowledge Foundation Group of Institution,Hooghly, West Bengal,3,332000,Private,2009
+ICT Mumbai,Mumbai, Maharashtra,4,331050,Public,1933
+VRSEC,Vijayawada, Andhra Pradesh,4,327000,Private,1977
+University of Technology,Jaipur, Rajasthan,4,321429,Private,2013
+GPREC,Kurnool, Andhra Pradesh,4,320000,Private,1985
+Vasireddy Venkatadri Institute of Technology,Guntur, Andhra Pradesh,4,320000,Private,2007
+MMU Solan,Solan, Himachal Pradesh,3,320000,Private,2010
+RCC Institute of Information Technology (RCCIIT),Kolkata, West Bengal,3,320000,Public,1999
+CEM - College Of Engineering & Management,Purba Medinipur, West Bengal,4,320000,Private,1998
+Jagannath University Jaipur,Jaipur, Rajasthan,5,315000,Private,2008
+"Punjab Engineering College, Chandigarh",Chandigarh, Punjab,4,310000,Public,1921
+SISTEC - Sagar Institute of Science & Technology,Bhopal, Madhya Pradesh,4,309333,Private,2007
+Thiagarajar College of Engineering,Madurai, Tamil Nadu,4,308650,Public,1957
+RITEE Group of Institutes,Raipur, Chhattisgarh,4,304300,Private,1995
+Kurukshetra University (KUK),Kurukshetra, Haryana,4,304000,Public,1956
+HBTU,Kanpur, Uttar Pradesh,3,300000,Public,1921
+MNIT Jaipur,Jaipur, Rajasthan,4,299810,Public,1963
+Sardar Vallabhbhai Patel Institute of Technology,Vasad, Gujarat,4,296000,Private,2009
+Sagar Institute of Research and Technology,Bhopal, Madhya Pradesh,3,296000,Private,2008
+Panjab University,Chandigarh, Punjab,4,295130,Public,1882
+SSITM Bhilai,Bhilai, Chhattisgarh,4,290000,Private,2008
+Maharaja Surajmal Institute of Technology,Delhi, Delhi NCR,3,288200,Private,1972
+JECRC,Jaipur, Rajasthan,4,287000,Private,2012
+IIT Jodhpur,Jodhpur, Rajasthan,4,281732,Public,2008
+IPU,Delhi, Delhi NCR,3,280000,Public,1998
+MJRPU Jaipur,Jaipur, Rajasthan,3,280000,Public,2008
+Keshav Memorial Institute of Technology,Hyderabad, Telangana,4,280000,Private,2008
+Seacom Skills University - SSU,Birbhum, West Bengal,4,280000,Private,2014
+Shri Shankaracharya Institute of Engineering and Technology,Bhilai, Chhattisgarh,3,278900,Private,2009
+Teri School of Advanced Studies (TSAS),Delhi, Delhi NCR,4,278300,Private,1998
+CUSAT,Kochi, Kerala,4,276207,Public,1971
+PAU,Ludhiana, Punjab,4,272920,Public,1962
+RGIPT,Raebareli, Uttar Pradesh,3,271600,Public,2007
+IIT Kharagpur,Kharagpur, West Bengal,4,266680,Public,1951
+IIT Tirupati,Tirupati, Andhra Pradesh,4,266672,Public,2015
+MITS Gwalior,Gwalior, Madhya Pradesh,3,260000,Public,2007
+UIET Chandigarh,Chandigarh, Punjab,4,254994,Public,2002
+"The ICFAI University, Raipur",Raipur, Chhattisgarh,4,247600,Private,2011
+AKS University,Satna, Madhya Pradesh,3,247111,Private,2012
+Indore Professional Studies Academy,Indore, Madhya Pradesh,3,240000,Private,2003
+Shaheed Bhagat Singh State Technical Campus,Firozpur, Punjab,3,240000,Public,1995
+PTU,Jalandhar, Punjab,3,240000,Public,1997
+Kommuri Pratap Reddy Institute of Technology,Ranga Reddy, Telangana,5,240000,Private,2008
+Nitte Meenakshi Institute of Technology,Bangalore, Karnataka,4,235224,Private,2001
+Vidyavardhaka College of Engineering,Mysore, Karnataka,4,235224,Private,1997
+Sapthagiri College of Engineering,Bangalore, Karnataka,3,235000,Private,2001
+Sant Longowal Institute of Engineering and Technology,Sangrur, Punjab,3,233000,Public,1991
+Pailan College of Management and Technology - PCMT,Kolkata, West Bengal,3,232000,Public,2002
+Netaji Subhas University of Technology,Delhi, Delhi NCR,4,228600,Public,1983
+JJTU Rajasthan,Jhunjhunu, Rajasthan,5,224000,Private,2009
+PES College of Engineering,Mandya, Karnataka,3,223680,Private,1962
+MDU,Rohtak, Haryana,4,220000,Public,1975
+IES College of Technology,Bhopal, Madhya Pradesh,3,220000,Private,2007
+Anna University,Chennai, Tamil Nadu,4,220000,Public,1978
+Nehru Institute of Engineering and Technology,Coimbatore, Tamil Nadu,3,220000,Private,2006
+Bharathidasan University,Tiruchirappalli, Tamil Nadu,3,217800,Public,1982
+Bhubaneswar Institute of Technology,Bhubaneswar, Odisha,5,216000,Private,2008
+IIITDM Jabalpur,Jabalpur, Madhya Pradesh,4,215600,Public,2005
+Bhilai Institute of Technology,Durg, Chhattisgarh,3,210726,Private,1986
+CV Raman University,Bilaspur, Himachal Pradesh,5,202800,Private,2006
+NIE Mysore,Mysore, Karnataka,3,200840,Private,1946
+Aditya Engineering College,East Godavari, Andhra Pradesh,4,200800,Private,2001
+Rajeev Gandhi Memorial College of Engineering and Technology,Kurnool, Andhra Pradesh,4,200800,Private,1992
+Bannari Amman Institute of Technology,Coimbatore, Tamil Nadu,4,200000,Private,1996
+Kongu Engineering College,Erode, Tamil Nadu,4,200000,Private,1984
+SKCET - Sri Krishna College of Engineering and Technology,Coimbatore, Tamil Nadu,3,200000,Private,1950
+Rajalakshmi Engineering College,Chennai, Tamil Nadu,4,200000,Private,1997
+Govind Ballabh Pant Institute of Engineering and Technology,Garhwal, Uttarakhand,3,200000,Public,1989
+BMS Institute of Technology and Management,Bangalore, Karnataka,4,198000,Private,2002
+Bangalore Institute of Technology,Bangalore, Karnataka,4,188180,Private,1979
+UIET Kurukshetra,Kurukshetra, Haryana,3,180936,Private,2004
+"Sundargarh Engineering College, Sundargarh",Sundergarh, Odisha,5,180000,Private,2007
+"Mepco Schlenk Engineering College, Villupuram",Viluppuram, Tamil Nadu,3,180000,Private,1984
+UniPune (SPPU),Pune, Maharashtra,3,171700,Public,1949
+Neotia Institute of Technology Management & Science - NITMAS,South 24 Parganas, West Bengal,3,148000,Private,2002
+Central University of Haryana,Narnaul, Haryana,4,144000,Public,2009
+Calicut University,Calicut, Kerala,3,140000,Public,1968
+Chhatrapati Shivaji Institute of Technology,Durg, Chhattisgarh,2,136400,Private,1999
+GGU,Bilaspur, Himachal Pradesh,3,133693,Public,1983
+College of Technology GBPUAT,Pantnagar, Uttarakhand,4,120125,Public,1966
+TITE - Templecity Institute of Technology and Engineering,Khordha, Odisha,4,118000,Private,2007
+Jaypee University of Information Technology (JUIT),Solan, Himachal Pradesh,3,116667,Private,2002
+BMS College of Engineering (BMSCE),Bangalore, Karnataka,3,112800,Private,1946
+Ramaiah Institute of Technology,Bangalore, Karnataka,4,112800,Private,1962
+PES University,Bangalore, Karnataka,4,112800,Private,1972
+VSSUT - Veer Surendra Sai University of Technology,Sambalpur, Odisha,3,112140,Public,1956
+Gujarat University,Ahmedabad, Gujarat,4,100000,Public,1949
+"Shree Dev Bhoomi Institute of Education,Science and Technology",Dehradun, Uttarakhand,5,100000,Private,2004
+GBPUAT,Pantnagar, Uttarakhand,3,100000,Public,1960
+Ujjain Engineering College,Ujjain, Madhya Pradesh,3,93540,Public,1996
+College of Technology and Engineering,Udaipur, Rajasthan,3,91000,Public,1964
+"Government Engineering College, Raipur",Raipur, Chhattisgarh,4,88000,Public,2006
+Zakir Husain College of Engineering and Technology,Aligarh, Uttar Pradesh,4,85991,Public,1935
+CEG Guindy,Chennai, Tamil Nadu,3,80000,Public,1859
+OPJS University,Churu, Rajasthan,5,78462,Private,2013
+Mysore University,Mysore, Karnataka,4,76768,Public,1916
+JIEM - Jaipur Institute of Engineering and Management,Jaipur, Rajasthan,3,70000,Private,2010
+University of Hyderabad (UOH),Hyderabad, Telangana,4,65240,Public,1974
+Mumbai University,Mumbai, Maharashtra,4,60000,Public,1857
+COEP,Pune, Maharashtra,4,60000,Public,1983
+VJTI Mumbai,Mumbai, Maharashtra,4,60000,Public,1887
+"Government College of Engineering, Amravati",Amravati, Maharashtra,3,60000,Public,1982
+GECA,Aurangabad, Maharashtra,3,60000,Public,1960
+"Faculty of Engineering, Dayalbagh Educational Institute",Agra, Uttar Pradesh,4,51300,Private,1950
+"Indira Gandhi Agricultural University, Raipur",Raipur, Chhattisgarh,4,50664,Public,1987
+Jawaharlal Nehru Krishi Vishwavidyalaya,Jabalpur, Madhya Pradesh,3,49800,Public,1964
+Kerala University,Thiruvananthapuram, Kerala,4,48425,Public,1937
+Siddaganga Institute of Technology,Tumkur, Karnataka,4,45000,Public,1963
+Osmania University,Hyderabad, Telangana,4,40000,Public,1917
+Jadavpur University,Kolkata, West Bengal,4,40000,Public,1905
+Sri Venkateswara University (SVU),Tirupati, Andhra Pradesh,4,36785,Public,2006
+MSU Baroda,Baroda, Gujarat,4,34000,Public,1881
+Madras University,Chennai, Tamil Nadu,4,28000,Public,1857
+Calcutta University,Kolkata, West Bengal,3,24000,Public,1857
+IIST Trivandrum,Thiruvananthapuram, Kerala,4,20000,Public,2007
+Doon University,Dehradun, Uttarakhand,3,20000,Public,2005
+BHU,Varanasi, Uttar Pradesh,4,15324,Public,1916
+Jamia Millia Islamia (JMI),Delhi, Delhi NCR,3,8800,Public,1920
+JNU,Delhi, Delhi NCR,4,778,Public,1969
+"Bapatla Engineering College, Bapatla Education Society",Guntur, Andhra Pradesh,4,268000,Private,1981
+Shri Vishnu Engineering College for Women,East Godavari, Andhra Pradesh,4,280000,Private,2001
+Sri Vasavi Engineering College,Tadepalligudem, Andhra Pradesh,3,277000,Private,2001
+Aditya Institute of Technology and Management,Srikakulam, Andhra Pradesh,3,269000,Private,2001
+G Pullaiah College of Engineering and Technology,Kurnool, Andhra Pradesh,4,310000,Private,2007
+Aizza College of Engineering and Technology,Adilabad, Andhra Pradesh,4,180000,Private,1999
+Gudlavalleru Engineering College,Gudlavalleru, Andhra Pradesh,4,286000,Private,1998
+Andhra Loyola Institute of Engineering and Technology,Vijayawada, Andhra Pradesh,3,221000,Private,2008
+Grandhi Varalakshmi Venkata Rao Institute of Technology,East Godavari, Andhra Pradesh,3,163000,Private,2008
+"Sri Venkateswara College of Engineering and Technology, Chittoor",Chittoor, Andhra Pradesh,3,211000,Private,1999
+Avanthi Institute of Engineering and Technology,Visakhapatnam, Andhra Pradesh,4,217000,Private,2005
+Akula Sree Ramulu College of Engineering,Tanuku, Andhra Pradesh,3,140000,Private,1998
+Shree Institute Of Technical Education,Tirupati, Andhra Pradesh,3,140000,Private,2009
+Priyadarshini Institute of Technology,Tirupati, Andhra Pradesh,4,140000,Private,2008
+"Intl IIT, Naya Raipur",Raipur, Chhattisgarh,4,662000,Public,2010
+Pragati College of Engineering and Management,Raipur, Chhattisgarh,3,280000,Private,2010
+AITM Rajnandgaon,Rajnandangoan, Chhattisgarh,4,45000,Private,2010
+Garv Institute of Management and Technology,Bhilai, Chhattisgarh,4,260000,Private,2008
+PRSU,Raipur, Chhattisgarh,3,63900,Public,1964
+Columbia Group of Institutions,Raipur, Chhattisgarh,5,290000,Private,2008
+Disha Institute of Management and Technology,Raipur, Chhattisgarh,3,280000,Private,2005
+"Bhilai Institute of Technology, Raipur",Raipur, Chhattisgarh,2,310000,Private,2009
+Kruti Institute of Technology and Engineering (KITE Chattisgarh,Raipur, Chhattisgarh,5,260000,Private,2008
+KK Modi University,Durg, Chhattisgarh,4,900000,Private,2018
+College of Dairy Science and Food Technology,Raipur, Chhattisgarh,4,79800,Private,1983
+Shri Shankaracharya Institute of Professional Management and Technology Raipur,Raipur, Chhattisgarh,4,83900,Private,2008
+"Institute of Technology, Korba",Korba, Chhattisgarh,3,260000,Public,2012
+"Central Institute of Plastics Engineering and Technology, Raipur",Raipur, Chhattisgarh,2,25810,Private,1968
+Delhi University (DU),Delhi, Delhi NCR,3,430000,Public,1922
+IGDTUW - Indira Gandhi Delhi Technical University For Women,Delhi, Delhi NCR,4,600000,Public,1998
+Shaheed Sukhdev College of Business Studies (SSCBS),Delhi, Delhi NCR,4,540000,Public,1987
+"Bharati Vidyapeeth College of Engineering, Delhi",Delhi, Delhi NCR,4,469000,Private,2001
+HMR Institute of Technology and Management,Delhi, Delhi NCR,3,391000,Private,2002
+Delhi Institute of Tool Engineering,Delhi, Delhi NCR,3,150000,Public,2007
+Karmaveer Bhaurao Patil College of Engineering,Delhi, Delhi NCR,3,390000,Private,1983
+Bhagwan Parshuram Institute of Technology,Delhi, Delhi NCR,3,390000,Private,2006
+"University School of Information and Communication Technology, [USICT] Delhi",Delhi, Delhi NCR,3,102000,Public,1998
+Netaji Subhas University of Technology (West Campus),Delhi, Delhi NCR,2,350000,Public,1983
+Delhi Institute of Aeronautical Sciences,Delhi, Delhi NCR,4,400000,Private,2003
+"HR Group of Institutions, Delhi",Delhi, Delhi NCR,4,104000,Private,2005
+SAL Education,Ahmedabad, Gujarat,4,500000,Private,1993
+A. D. Patel Institute of Technology,Anand, Gujarat,4,424000,Private,2000
+Sarvajanik College of Engineering and Technology,Surat, Gujarat,4,725000,Private,1995
+Shankersinh Vaghela Bapu Technical Campus,Gandhinagar, Gujarat,3,344000,Private,2009
+Merchant Engineering College (MEC Mehsana),Mahesana, Gujarat,3,265000,Private,2009
+"Shri Labhubhai Trivedi Institute of Engineering And Technology, Rajkot",Rajkot, Gujarat,4,244000,Private,2010
+Hansaba College of Engineering and Technology,Patan, Gujarat,3,311000,Private,2011
+Knowledge Institute Of Technology And Engineering,Anand, Gujarat,4,248000,Private,2007
+HJD Institute of Technical Education and Research,Kutch, Gujarat,4,265000,Private,2010
+L D College of Engineering,Ahmedabad, Gujarat,4,10000,Public,1948
+Birla Vishvakarma Mahavidyalaya,Vallabh Vidyanagar, Gujarat,4,570000,Private,2001
+Laljibhai Chaturbhai Institute Of Technology,Ahmedabad, Gujarat,5,336000,Private,2002
+"Om Institute of Technology, Shahera",Panchmahal, Gujarat,5,172000,Private,2008
+Navsari Agricultural University (NAU),Navsari, Gujarat,4,20000,Public,2004
+"Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",Faridabad, Haryana,4,718000,Private,1997
+KITM - Kurukshetra Institute of Technology and Management,Kurukshetra, Haryana,3,233000,Private,2007
+"Jind Institute of Engineering and Technology (JIET, Jind)",Jind, Haryana,3,320000,Private,1998
+Jan Nayak Ch. Devi Lal Memorial College Of Engineering (JCDCOE),Sirsa, Haryana,4,208000,Private,2003
+"SGT University, Gurgaon",Gurgaon, Haryana,4,8500000,Private,1996
+D.R. College of Engineering and Technology (DRCET),Panipat, Haryana,2,184000,Private,2008
+Karnal Institute of Technology and Management,Karnal, Haryana,5,197000,Private,2008
+Prannath Parnami Institute of Management Technology,Hisar, Haryana,4,288000,Private,2009
+"Rattan Institute of Technology and Management (RITM, Haryana)",Palwal, Haryana,3,277000,Private,2008
+JMIT - Seth Jai Parkash Mukand Lal Institute of Engineering and Technology,Radaur, Haryana,3,364000,Private,1995
+Shanti Niketan College of Engineering,Hisar, Haryana,3,153000,Private,2008
+R.P. Inderaprastha Institute of Technology,Karnal, Haryana,4,240000,Private,2008
+"Yaduvanshi College of Engineering and Technology,Narnaul",Narnaul, Haryana,5,160000,Private,2012
+Maharishi Ved Vyas Group of Institutions,Yamuna Nagar, Haryana,,210000,Private,2009
+RAYAT-BAHRA Innovative Institute of Technology & Management,Sonipat, Haryana,4,50050,Private,2010
+GJU,Hisar, Haryana,3,290000,Public,1995
+"Delhi Technical Campus, Haryana",Jhajjar, Haryana,3,210000,Private,2011
+Baddi University,Baddi, Himachal Pradesh,4,560000,Private,2002
+Chaudhary Sarwan Kumar Himachal Pradesh Krishi Vishvavidyalaya,Palampur, Himachal Pradesh,3,160000,Public,1966
+"Himalayan Group of Professional Institutions, Sirmour",Sirmaur, Himachal Pradesh,4,326000,Private,2007
+Eternal University,Sirmaur, Himachal Pradesh,,329000,Private,2008
+Arni University,Kangra, Himachal Pradesh,4,440000,Private,2009
+"Government Engineering College, Bilaspur",Bilaspur, Himachal Pradesh,3,47670,Public,1964
+L.R. Group of Institutes,Solan, Himachal Pradesh,3,250000,Private,2008
+"Chitkara University, Solan",Solan, Himachal Pradesh,4,600000,Private,2009
+Sri Sai University,Palampur, Himachal Pradesh,4,364000,Private,2010
+BIMT - Bells Institute of Management & Technology,Shimla, Himachal Pradesh,3,359000,Private,2010
+Indus International University (IIU),Una, Himachal Pradesh,5,401000,Private,2009
+J K Institute of Engineering,Bilaspur, Himachal Pradesh,,70200,Private,2008
+"Lakhmi Chand Institute of Technology, Bilaspur",Bilaspur, Himachal Pradesh,5,280000,Private,2008
+Green Hills Engineering College,Solan, Himachal Pradesh,2,248000,Private,2003
+"Chouksey Engineering College, Bilaspur",Bilaspur, Himachal Pradesh,4,60000,Private,2004
+IISc Bangalore,Bangalore, Karnataka,4,220000,Public,1909
+IIIT Bangalore,Bangalore, Karnataka,3,2630000,Private,1998
+Sir M. Visvesvaraya Institute of Technology,Bangalore, Karnataka,3,80526,Private,1986
+JNNCE - Jawaharlal Nehru National College of Engineering,Shimoga, Karnataka,4,386000,Private,1980
+Ballari Institute of Technology and Management (BITM),Bellary, Karnataka,3,226680,Private,1997
+MG University (MGU),Kottayam, Kerala,4,120000,Public,1983
+RSET - Rajagiri School of Engineering and Technology,Kochi, Kerala,4,300000,Private,2001
+Sree Chitra Thirunal College of Engineering,Thiruvananthapuram, Kerala,4,301000,Public,1995
+College of Engineering Trivandrum,Thiruvananthapuram, Kerala,4,3962000,Public,1939
+FISAT - Federal Institute of Science and Technology,Ernakulam, Kerala,3,360000,Private,2002
+"College of Engineering, Pathanapuram",Kollam, Kerala,3,260000,Public,2010
+"Rajiv Gandhi Institute of Technology, Kerala",Kottayam, Kerala,4,67220,Public,1991
+MCE,Kottayam, Kerala,3,330000,Private,2002
+RIET - Rajadhani Institute of Engineering and Technology,Thiruvananthapuram, Kerala,4,325000,Private,2009
+Sarabhai Institute of Science and Technology,Thiruvananthapuram, Kerala,3,200000,Private,2004
+"Sree Vellappally Natesan College of Engineering, Mavelikkara",Alappuzha, Kerala,4,240000,Public,2009
+Kerala Veterinary And Animal Sciences University - KVASU,Wayanad, Kerala,3,300000,Public,2010
+"Mar Baselios Institute of Technology And Science, Kothamangalam",Ernakulam, Kerala,4,200000,Private,2009
+Heera College of Engineering & Technology,Thiruvananthapuram, Kerala,4,200000,Private,2010
+"Vijnan Institute of Science And Technology, Piravam",Ernakulam, Kerala,4,200000,Private,2011
+SNM Institute of Management and Technology,Ernakulam, Kerala,4,200000,Private,1984
+"Gurudeva Institute of Science & Technology, Puthuppally",Kottayam, Kerala,3,200000,Private,2010
+"North Malabar Institute of Technology, Kanhangad",Kasaragod, Kerala,3,300000,Private,2012
+ILAHIA School of Science and Technology,Ernakulam, Kerala,2,220000,Private,2011
+Mount Zion College of Engineering (MZCE Pathanamthitta),Pathanamthitta, Kerala,4,200000,Private,2001
+NIELIT Calicut,Calicut, Kerala,4,269000,Public,1989
+TKM Institute of Technology,Kollam, Kerala,4,200000,Private,2002
+Institute of Engineering and Science IPS Academy,Indore, Madhya Pradesh,3,404000,Private,1999
+"Patel College of Science and Technology, [PCST] Bhopal",Bhopal, Madhya Pradesh,3,224000,Private,2002
+"NMIMS University, Indore",Indore, Madhya Pradesh,,202000,Private,1981
+Shri Ram Institute of Technology,Jabalpur, Madhya Pradesh,4,310000,Private,2001
+"University Institute of Technology, Bhopal - Rajiv Gandhi Proudyogiki Vishwavidyalay",Bhopal, Madhya Pradesh,3,178000,Public,1987
+Ojaswini Institute of Management & Technology,Damoh, Madhya Pradesh,3,192000,Private,2007
+SIMS - Sanghvi Institute of Management and Science,Indore, Madhya Pradesh,3,180000,Private,2006
+Shri Dadaji Institute of technology and Science (SDITS),Khandwa, Madhya Pradesh,3,200000,Private,2004
+Barkatullah University Institute of Technology,Bhopal, Madhya Pradesh,4,173000,Private,1997
+SSSUTMS,Bhopal, Madhya Pradesh,4,1360000,Private,2013
+SAM College of Engineering and Technology,Bhopal, Madhya Pradesh,4,220000,Private,2007
+Rewa Engineering College,Rewa, Madhya Pradesh,3,199000,Private,1964
+"Dr. D.Y. Patil Vidyapeeth, Pune",Pune, Maharashtra,3,1125000,Public,2003
+Thakur College of Engineering and Technology- TCET,Mumbai, Maharashtra,4,594000,Private,2001
+"Shri Sant Gajanan Maharaj College of Engineering, Shegaon",Buldhana, Maharashtra,3,391000,Private,1983
+"Cummins College of Engineering for Women, Pune",Pune, Maharashtra,4,577000,Public,2010
+Rourkela Institute of Technology,Rourkela, Odisha,3,50000,Private,2000
+Kalam Institute of Technology ( Polytechnic),Ganjam, Odisha,2,,Private,2016
+"Attitude Business School, Bhubaneswar",Bhubaneswar, Odisha,3,120000,Private,2006
+Sanjay Memorial Institute of Technology,Berhampur, Odisha,4,220000,Private,1980
+Bhubaneswar College of Engineering,Khordha, Odisha,4,180000,Private,1999
+Synergy Institute of Engineering and Technology,Dhenkanal, Odisha,3,296000,Private,1999
+Indira Gandhi Institute of Technology,Dhenkanal, Odisha,4,120000,Private,1982
+Indotech College of Engineering,Khordha, Odisha,5,291000,Private,2009
+Srinix College of Engineering,Baleswar, Odisha,4,180000,Private,2009
+Vijayanjali Institute Of Technology,Balasore, Odisha,2,240000,Private,2009
+IIIT Bhubaneswar,Bhubaneswar, Odisha,4,704000,Public,2008
+Bhubaneswar Engineering College,Bhubaneswar, Odisha,4,252000,Private,2008
+Black Diamond College of Engineering and Technology,Jharsuguda, Odisha,5,256000,Private,2008
+Krutika Institute of Technical Education,Bhubaneswar, Odisha,3,220000,Private,2010
+RadhaKrishna Institute of Technology and Engineering,Khordha, Odisha,4,260000,Private,2010
+Spintronic Technology and Advance Research,Bhubaneswar, Odisha,4,180000,Private,2009
+OUAT - Orissa University of Agriculture and Technology,Bhubaneswar, Odisha,4,119000,Public,1962
+Guru Nanak Dev Engineering College,Ludhiana, Punjab,3,300000,Private,1956
+RIMT College of Architecture,Fatehgarh Sahib, Punjab,3,,Private,2004
+Swami Sarvanand Giri Regional Centre,Hoshiarpur, Punjab,3,619000,Public,1816
+Patiala Institute of Engineering and Technology For Women,Patiala, Punjab,2,307000,Private,2008
+Swami Sarvanand Institute of Mangement and Technology,Gurdaspur, Punjab,4,240000,Private,1999
+Chandigarh College of Engineering and Technology,Chandigarh, Punjab,4,301000,Public,2006
+Anand College of Engineering and Management (ACEM),Kapurthala, Punjab,2,242000,Private,2010
+"Chitkara University Institute of Engineering and Technology, Chandigarh",Patiala, Punjab,4,1270000,Private,2010
+National Institute of Pharmaceutical Education and Research S.A.S. Nagar,Mohali, Punjab,5,83040,Public,1994
+LCET - Ludhiana College of Engineering & Technology,Ludhiana, Punjab,5,242000,Private,2002
+Baba Kuma Singh Ji Enggineering College,Amritsar, Punjab,4,240000,Private,2003
+Shiv Shankar Institute of Engineering Technology,Amritsar, Punjab,4,240000,Private,2004
+"College of Engineering and Management, Kapurthala",Kapurthala, Punjab,3,106000,Private,2002
+Ghubaya College of Engineering and Technology,Firozpur, Punjab,3,262000,Private,2010
+"BIT Mesra, Jaipur Center",Jaipur, Rajasthan,3,1209000,Private,1995
+UNIRAJ (Rajasthan University),Jaipur, Rajasthan,3,440000,Public,1947
+JIET Group of Institutions,Jodhpur, Rajasthan,3,360000,Private,2007
+"Government Mahila Engineering College, Ajmer",Ajmer, Rajasthan,3,196000,Public,2007
+Surendera Group of Institutions,Sri Ganganagar, Rajasthan,3,213000,Private,2010
+R. N. Modi Engineering College,Kota, Rajasthan,3,315000,Private,2004
+"Maharana Pratap University of Agriculture and Technology, Udaipur",Udaipur, Rajasthan,3,222000,Public,1999
+Shekhawati Engineering college,Jhunjhunu, Rajasthan,4,280000,Private,2003
+"Jaipur Institute of Engineering & Technology, Kukas",Jaipur, Rajasthan,4,315000,Private,2009
+Alagappa University,Karaikudi, Tamil Nadu,4,78400,Public,1985
+Department of Management Studies,Chennai, Tamil Nadu,4,,Public,2004
+Malla Reddy College of Engineering and Technology,Hyderabad, Telangana,4,440000,Private,2007
+CMR College of Engineering and Technology,Ranga Reddy, Telangana,3,460000,Private,2002
+Vidya Jyothi Institute of Technology,Hyderabad, Telangana,4,460000,Private,1998
+Vardhaman College of Engineering,Hyderabad, Telangana,4,560000,Private,1960
+Holy Mary Institute of Technology & Science,Hyderabad, Telangana,3,408000,Private,2008
+Sphoorthy Engineering College,Hyderabad, Telangana,3,380000,Private,2004
+JNAFAU - Jawaharlal Nehru Architecture And Fine Arts University,Hyderabad, Telangana,4,40000,Public,1961
+Geethanjali College of Engineering and Technology,Ranga Reddy, Telangana,4,480000,Private,2007
+Malla Reddy Engineering College for Women,Secunderabad, Telangana,4,380000,Private,2010
+"National Institute of Pharmaceutical Education and Research, Hyderabad",Hyderabad, Telangana,,407000,Public,2007
+Abdulkalam Institute of Technological Sciences,Khammam, Telangana,3,260000,Private,2007
+Turbomachinery Institute of Technology and Sciences,Medak, Telangana,4,235000,Private,2008
+Brilliant Grammar School Educational Society's Group of Institutions,Ranga Reddy, Telangana,1,290000,Private,2009
+Bhoj Reddy Engineering College for Women,Hyderabad, Telangana,5,300000,Private,1997
+Shri Ram Murti Smarak College of Engineering and Technology,Bareilly, Uttar Pradesh,3,467000,Private,1996
+Maharana Pratap Engineering College,Kanpur, Uttar Pradesh,4,245000,Private,1999
+"Doon College of Engineering and Technology, Dehradun",Dehradun, Uttarakhand,3,80000,Private,2009
+THDC Institute of Hydropower Engineering and Technology (THDC-IHET),Garhwal, Uttarakhand,2,232000,Private,2011
+Bipin Tripathi Kumaon Institute of Technology,Almora, Uttarakhand,4,165000,Public,1991
+Phonics Group of Institutions,Roorkee, Uttarakhand,4,260000,Private,2008
+"Institute of Technology, Chamoli",Chamoli, Uttarakhand,3,210000,Public,2013
+Roorkee Institute of Technology - RIT,Dehradun, Uttarakhand,4,520000,Private,2005
+"Beehive College of Engineering and Technology (BCET, Dehradun)",Dehradun, Uttarakhand,3,254000,Private,2009
+Balwant Singh Mukhiya College of Engineering,Roorkee, Uttarakhand,4,261000,Private,2011
+Birla Institute Of Applied Sciences,Bhimtal, Uttarakhand,4,71600,Private,1969
+Himalayan Garhwal University,Garhwal, Uttarakhand,4,400000,Public,2016
+"Uttaranchal Institute of Technology, [UIT] Dehradun",Dehradun, Uttarakhand,4,543000,Private,2006
+"GRD Institute of Management and Technology, Dehradun",Dehradun, Uttarakhand,4,328000,Private,2004
+Swami Darshnanand Institute of Management and Technology,Haridwar, Uttarakhand,4,134000,Private,2009
+UTU (Uttarakhand Technical University),Dehradun, Uttarakhand,3,1020000,Public,2005
+Heritage Institute of Technology,Kolkata, West Bengal,4,393000,Private,2001
+Uttar Banga Krishi Viswavidyalaya,Cooch Behar, West Bengal,4,106000,Public,1979
+Bengal Institute of Technology,Kolkata, West Bengal,3,102000,Public,2001
+St. Thomas' College of Engineering and Technology - STCET,Kolkata, West Bengal,3,390000,Private,1950
+Hooghly Engineering and Technology College,Hooghly, West Bengal,4,340000,Private,2004
+IAS Academy,Kolkata, West Bengal,4,,Private,2012
+GMIT - Gargi Memorial Institute of Technology,Kolkata, West Bengal,4,372000,Private,2011
+"Department of Jute and Fibre Technology - Institute of Jute Technology, Calcutta University",Kolkata, West Bengal,5,40500,Private,1951
+Camellia Institute Of Technology,Kolkata, West Bengal,4,268000,Private,2007
